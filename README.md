@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - Head of Project @ Hephaestus Applied Artificial Intelligence
 
 ## Relevant Projects
-
+[Hypoxia Prediction from scRNA‑seq Data](https://github.com/FilippoRonzino/ai-lab): Predicting the oxygen level condition of cancer cells based on gene expression patterns. Extensive data analysis, data
+preprocessing and filtering, dimensionality reduction with PCA and UMAP. Developed a model comparison pipeline including various algorithms: XGBoost, KNN, Logistic regression, Random forest, SVM, Neural network. Employed ensemble methods and Kolmogorov‑Arnold Networks.
 
