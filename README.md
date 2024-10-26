@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# About Me
+BSc in Maths & CS for AI @ Bocconi University
+Head of Project @ Hephaestus Applied Artificial Intelligence
+
+# Relevant Projects
+
+
