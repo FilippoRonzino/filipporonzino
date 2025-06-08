@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## About Me
 - BSc in Maths & CS for AI @ Bocconi University 
 - Head of Project @ Hephaestus Applied Artificial Intelligence
-- Incoming Strats Intern @ HBK Capital Management
+- Strats Intern @ HBK Capital Management
 - Former Quant Research Intern @ Schonfeld
 
 ## Relevant Projects
